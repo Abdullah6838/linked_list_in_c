@@ -7,8 +7,6 @@ struct node {
     struct node *next;
 };
 
-
-//Main Method
 void main() {
    struct node *temp, *root, *ptr, *p, *t;
    int value, n, location;
