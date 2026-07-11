@@ -61,7 +61,7 @@ New Node Data: 15
 
 ```text
 Your linked list:
-10 -> 20 -> 30 ->
+10 -> 20 -> 30 -> 
 
 After Insert At First:
 5 -> 10 -> 20 -> 30 ->
